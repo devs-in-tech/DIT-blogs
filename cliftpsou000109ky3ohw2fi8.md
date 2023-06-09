@@ -1,12 +1,12 @@
 ---
 title: "Boost Your App's Performance: 12-Factor Methodology Explained"
 seoTitle: "Boost Your App's Performance: 12-Factor Methodology Explained"
-seoDescription: "!2-Factor methodology is proven framework for building resilient and scalable applications. Our blog provides a detailed explanation of the 12 factor."
+seoDescription: "12-Factor methodology is proven framework for building resilient and scalable applications. Our blog provides a detailed explanation of the 12 factor."
 datePublished: Sat Jun 03 2023 10:00:33 GMT+0000 (Coordinated Universal Time)
 cuid: cliftpsou000109ky3ohw2fi8
 slug: boost-your-apps-performance-12-factor-methodology-explained
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1685784791282/7885e07a-a690-4549-893b-d7b8090f77cc.png
-tags: devops, devsintechblogs
+tags: devops, 12-factor-app, devsintechblogs
 
 ---
 
@@ -117,6 +117,10 @@ Admin processes in a 12-factor app are one-time tasks or management jobs that ru
 4. The 12-Factor App Methodology Explained: [https://www.digitalocean.com/community/tutorials/the-12-factor-app-methodology-explained](https://www.digitalocean.com/community/tutorials/the-12-factor-app-methodology-explained)
     
 5. Building 12-Factor Microservices on AWS: [https://aws.amazon.com/blogs/compute/building-12-factor-microservices-on-aws/](https://aws.amazon.com/blogs/compute/building-12-factor-microservices-on-aws/)
+    
+6. 12 Factor App By KodeCloud :
+    
+    [https://kodekloud.com/courses/12-factor-app/](https://kodekloud.com/courses/12-factor-app/)
     
 
 # Conclusion :
