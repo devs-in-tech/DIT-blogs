@@ -3,7 +3,7 @@ title: "DevsInTech Chronicle #2"
 datePublished: Tue Jul 11 2023 15:59:05 GMT+0000 (Coordinated Universal Time)
 cuid: cljyh98wf000s09me96xscwli
 slug: devsintech-chronicle-2
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689090978394/3977fe66-cbbe-4730-8524-147e53fed550.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689612862972/7696221e-94e1-4e30-b95a-43d1d4f03945.png
 tags: devsintechblogs
 
 ---
