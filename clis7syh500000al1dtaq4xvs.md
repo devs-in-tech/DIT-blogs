@@ -5,7 +5,7 @@ seoDescription: "animation in javascript"
 datePublished: Mon Jun 12 2023 02:08:09 GMT+0000 (Coordinated Universal Time)
 cuid: clis7syh500000al1dtaq4xvs
 slug: learn-simple-animation-using-js
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1686535614060/a4f45f5d-96bf-440a-8a57-3d8423e4596b.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689612998664/6260128e-3ac0-4467-8e7b-5a300972796c.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1686493813113/e7b56384-cff5-47b8-879e-1a139241111c.png
 tags: webdevelopment, javascript, animation, devsintechblogs
 
