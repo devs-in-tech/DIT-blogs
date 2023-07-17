@@ -3,7 +3,7 @@ title: "DevsInTech Chronicle #1"
 datePublished: Sun Jun 11 2023 05:14:47 GMT+0000 (Coordinated Universal Time)
 cuid: cliqz143z000c09m84ck0curc
 slug: devsintech-chronicle-1
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1686460338350/61370b5f-e2c6-430b-8809-bea04b78739c.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689612910635/8f593a9d-e1ec-4301-971d-74c9ed32f00e.png
 tags: newsletter, devsintechblogs
 
 ---
