@@ -1,5 +1,5 @@
 ---
-title: "Cloud Computing 101: A Beginner's Journey into the Future of Technology!
+title: "Cloud Computing 101: A Beginner's Journey into the Future of Technology !
 
 Introduction"
 seoTitle: "The Power of Cloud Computing for Bussiness"
