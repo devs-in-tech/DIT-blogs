@@ -1,12 +1,12 @@
 ---
 title: "Cloud Computing 101: A Beginner's Journey into the Future of Technology!
 
-Inroduction"
+Introduction"
 seoTitle: "The Power of Cloud Computing for Bussiness"
 seoDescription: "Explore the world of cloud computing and its key components - IaaS, PaaS, and SaaS. Stay competitive and future-ready with cloud solutions."
 datePublished: Wed Jul 26 2023 03:39:05 GMT+0000 (Coordinated Universal Time)
 cuid: clkj6fdu8000809l394flgcld
-slug: cloud-computing-101-a-beginners-journey-into-the-future-of-technology-inroduction
+slug: cloud-computing-101-a-beginners-journey-into-the-future-of-technology-introduction
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690216944303/a112b6b8-7d2a-4d1d-a18b-466a37bd1175.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1690342709857/2c0189ea-10d5-48b4-b7dc-52877d650b55.png
 tags: cloud, cloud-computing, devops, devsintechblogs
