@@ -1,6 +1,8 @@
 ---
 title: "Cloud Computing 101: A Beginner's Journey into the Future of Technology !
 
+
+
 Introduction"
 seoTitle: "The Power of Cloud Computing for Bussiness"
 seoDescription: "Explore the world of cloud computing and its key components - IaaS, PaaS, and SaaS. Stay competitive and future-ready with cloud solutions."
