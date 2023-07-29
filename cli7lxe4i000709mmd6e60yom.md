@@ -1,8 +1,8 @@
 ---
-title: "NPM Ecosystem"
+title: "Diving Deep into NPM Ecosystem"
 datePublished: Sun May 28 2023 16:00:21 GMT+0000 (Coordinated Universal Time)
 cuid: cli7lxe4i000709mmd6e60yom
-slug: npm-ecosystem
+slug: diving-deep-into-npm-ecosystem
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1684732915260/5cbb07d9-f48a-44fc-a605-32ebeff2741f.png
 tags: javascript, nodejs, npm, devsintechblogs
 
@@ -42,7 +42,7 @@ In simple words, it manages all the packages of one particular project. It also 
 
 # Installation
 
-As I said early we can't install the NPM package separately. We can able to get that by installing a node.js.
+As I said early we can't install the NPM package separately. We can able to get that by installing node.js.
 
 By using the CLI command we can even make a simple check should the package manager is installed successfully or not we can cross check the version of the NPM exists.
 
